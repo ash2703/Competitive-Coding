@@ -1,2 +1,2 @@
 # Competitive-Coding
-My solutions to different coding competitiions
+My solutions to different coding competitiions.
